@@ -1,0 +1,11 @@
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\bin\Debug\netcoreapp3.1\BuscaRaizes.exe
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\bin\Debug\netcoreapp3.1\BuscaRaizes.deps.json
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\bin\Debug\netcoreapp3.1\BuscaRaizes.runtimeconfig.json
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\bin\Debug\netcoreapp3.1\BuscaRaizes.runtimeconfig.dev.json
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\bin\Debug\netcoreapp3.1\BuscaRaizes.dll
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\bin\Debug\netcoreapp3.1\BuscaRaizes.pdb
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\obj\Debug\netcoreapp3.1\BuscaRaizes.csprojAssemblyReference.cache
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\obj\Debug\netcoreapp3.1\BuscaRaizes.AssemblyInfoInputs.cache
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\obj\Debug\netcoreapp3.1\BuscaRaizes.AssemblyInfo.cs
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\obj\Debug\netcoreapp3.1\BuscaRaizes.dll
+C:\Users\Murilo\source\repos\BuscaRaizes\BuscaRaizes\obj\Debug\netcoreapp3.1\BuscaRaizes.pdb

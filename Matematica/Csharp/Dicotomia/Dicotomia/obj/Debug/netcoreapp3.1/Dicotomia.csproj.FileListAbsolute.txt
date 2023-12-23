@@ -1,0 +1,11 @@
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\bin\Debug\netcoreapp3.1\Dicotomia.exe
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\bin\Debug\netcoreapp3.1\Dicotomia.deps.json
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\bin\Debug\netcoreapp3.1\Dicotomia.runtimeconfig.json
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\bin\Debug\netcoreapp3.1\Dicotomia.runtimeconfig.dev.json
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\bin\Debug\netcoreapp3.1\Dicotomia.dll
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\bin\Debug\netcoreapp3.1\Dicotomia.pdb
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\obj\Debug\netcoreapp3.1\Dicotomia.csprojAssemblyReference.cache
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\obj\Debug\netcoreapp3.1\Dicotomia.AssemblyInfoInputs.cache
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\obj\Debug\netcoreapp3.1\Dicotomia.AssemblyInfo.cs
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\obj\Debug\netcoreapp3.1\Dicotomia.dll
+C:\Users\Murilo\source\repos\Dicotomia\Dicotomia\obj\Debug\netcoreapp3.1\Dicotomia.pdb
