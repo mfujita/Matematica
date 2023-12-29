@@ -28,7 +28,7 @@ namespace BuscaRaizes
             Dictionary<int, double> parOrdenado = new Dictionary<int, double>();
             for (int x = esq; x < dir; x++)
             {
-                parOrdenado.Add(x, Math.Pow(x, 3) - 6 * x - 2); // Equação
+                parOrdenado.Add(x, 1.4 * Math.Pow(x, 3) - 3.2 * Math.Pow(x, 2) - 14.8 * x + 23.6); // Equação 1,4x^3-3,2x^2-14,8x+23,6
             }
 
             LocalizaRaizEntre2Inteiros(parOrdenado);

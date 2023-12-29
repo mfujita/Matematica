@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murilo\\source\\repos\\Matematica\\Csharp\\Dicotomia\\Dicotomia\\Dicotomia.csproj",
+      "projectUniqueName": "C:\\Users\\Murilo\\source\\repos\\github\\Matematica\\Csharp\\Dicotomia\\Dicotomia\\Dicotomia.csproj",
       "projectName": "Dicotomia",
-      "projectPath": "C:\\Users\\Murilo\\source\\repos\\Matematica\\Csharp\\Dicotomia\\Dicotomia\\Dicotomia.csproj",
+      "projectPath": "C:\\Users\\Murilo\\source\\repos\\github\\Matematica\\Csharp\\Dicotomia\\Dicotomia\\Dicotomia.csproj",
       "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murilo\\source\\repos\\Matematica\\Csharp\\Dicotomia\\Dicotomia\\obj\\",
+      "outputPath": "C:\\Users\\Murilo\\source\\repos\\github\\Matematica\\Csharp\\Dicotomia\\Dicotomia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",

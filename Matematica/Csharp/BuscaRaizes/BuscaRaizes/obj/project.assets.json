@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murilo\\source\\repos\\BuscaRaizes\\BuscaRaizes\\BuscaRaizes.csproj",
+      "projectUniqueName": "C:\\Users\\Murilo\\source\\repos\\github\\Matematica\\Csharp\\BuscaRaizes\\BuscaRaizes\\BuscaRaizes.csproj",
       "projectName": "BuscaRaizes",
-      "projectPath": "C:\\Users\\Murilo\\source\\repos\\BuscaRaizes\\BuscaRaizes\\BuscaRaizes.csproj",
+      "projectPath": "C:\\Users\\Murilo\\source\\repos\\github\\Matematica\\Csharp\\BuscaRaizes\\BuscaRaizes\\BuscaRaizes.csproj",
       "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murilo\\source\\repos\\BuscaRaizes\\BuscaRaizes\\obj\\",
+      "outputPath": "C:\\Users\\Murilo\\source\\repos\\github\\Matematica\\Csharp\\BuscaRaizes\\BuscaRaizes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
