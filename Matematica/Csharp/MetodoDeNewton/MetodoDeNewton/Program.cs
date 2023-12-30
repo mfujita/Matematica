@@ -26,17 +26,17 @@ namespace MetodoDeNewton
 
         static double FuncaoPrimitiva(double x)
         {
-            return Math.Pow(x, 3) - 6 * x + 2;
+            return 1.4 * Math.Pow(x, 3) - 3.2 * Math.Pow(x, 2) - 14.8 * x + 23.6;
         }
 
         static double DerivadaPrimeira(double x)
         {
-            return 3 * Math.Pow(x, 2) - 6;
+            return 3 *1.4* Math.Pow(x, 2) - 3.2*2*x - 14.8;
         }
 
         static double DerivadaSegunda(double x)
         {
-            return 6 * x;
+            return 6 * 1.4 * x - 6.4 ;
         }
 
         static double Erro1(double x0, double x1)
@@ -68,8 +68,8 @@ namespace MetodoDeNewton
                 x0 = xn;
             }
 
-            Console.Write("\nPara x = " + xn + " => x^3 - 6x + 2 = "); // Equação
-            Console.WriteLine(Math.Pow(xn, 3) - 6 * xn + 2);
+            Console.Write("\nPara x = " + xn + " => 1,4x^3 - 3,2x^2 - 14,8x + 23,6 = "); // Equação
+            Console.WriteLine(FuncaoPrimitiva(xn));
         }
     }
 }
