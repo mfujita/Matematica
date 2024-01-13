@@ -1,9 +1,11 @@
 import sys
 
+"""
 def localizaRaizEntre2Inteiros(Y):
     i=0
     for item in Y.keys():
         print (item[i], item[i+1])
+"""
 
 def armazenaSinais(esq, dir):
     
@@ -20,13 +22,16 @@ def armazenaSinais(esq, dir):
         print(y)
     print()
 
-    localizaRaizEntre2Inteiros(parOrdenado)
+    #localizaRaizEntre2Inteiros(parOrdenado)
 
 def main():
-    esquerdo = int(sys.argv[1])
-    direito = int(sys.argv[2])
-    
-    armazenaSinais(esquerdo,direito)
+    try:
+        esquerdo = int(sys.argv[1])
+        direito = int(sys.argv[2])
+        
+        armazenaSinais(esquerdo,direito)
+    except IndexError:
+        print("Use BuscaRaizes.py [limite_esquedo] [limite_direito]")
 
 if __name__ == "__main__":
     main()
